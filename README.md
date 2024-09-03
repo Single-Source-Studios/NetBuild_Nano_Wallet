@@ -1,24 +1,24 @@
-# NetBuild - Fast, Robust & Secure NANO Wallet
+# NetBuild Wallet - Fast, Robust & Secure NANO Wallet
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/appditto/natrium_wallet_flutter)](https://github.com/appditto/natrium_wallet_flutter/releases) [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/appditto/natrium_wallet_flutter/blob/master/LICENSE) [![Asset License](https://img.shields.io/badge/asset%20license-proprietary-orange)](https://github.com/appditto/natrium_wallet_flutter/blob/master/LICENSE) [![CI](https://github.com/appditto/natrium_wallet_flutter/workflows/CI/badge.svg)](https://github.com/appditto/natrium_wallet_flutter/actions?query=workflow%3ACI) [![Twitter Follow](https://img.shields.io/twitter/follow/NatriumIO?style=social)](https://twitter.com/intent/follow?screen_name=NatriumIO)
 
 
-## What is Natrium?
+## What is NetBuild Wallet?
 
-Natrium is a cross-platform mobile wallet for the NANO cryptocurrency. It is written in Dart using [Flutter](https://flutter.io).
+NetBuild Wallet is a cross-platform mobile wallet for the NANO cryptocurrency. It is written in Dart using [Flutter](https://flutter.io).
 
 | Link | Description |
 | :----- | :------ |
-[natrium.io](https://natrium.io) | Natrium Homepage
+[netbuild.africa](https://natrium.io) | NetBuild Homepage
 [nano.org](https://nano.org) | NANO Cryptocurrency Homepage
 
-![Natrium Themes](https://natrium.io/assets/natrium-themes.jpg)
+![NetBuild Wallet Themes](https://natrium.io/assets/natrium-themes.jpg)
 
-![Natrium Quick Send](https://natrium.io/assets/natrium-qt-1.gif) ![Natrium Add to Contacts](https://natrium.io/assets/natrium-qt-2.gif) ![Natrium Change Representative](https://natrium.io/assets/natrium-qt-4.gif)
+![NetBuild Wallet Quick Send](https://natrium.io/assets/natrium-qt-1.gif) ![Natrium Add to Contacts](https://natrium.io/assets/natrium-qt-2.gif) ![Natrium Change Representative](https://natrium.io/assets/natrium-qt-4.gif)
 
 ## Server
 
-Natrium's backend server can be found [here](https://github.com/appditto/natrium-wallet-server)
+NetBuild Wallet's backend server can be found [here](https://github.com/appditto/natrium-wallet-server)
 
 ## Contributing
 
