@@ -14,7 +14,7 @@ NetBuild Wallet is a cross-platform mobile wallet for the NANO cryptocurrency. I
 
 ![NetBuild Wallet Themes](https://natrium.io/assets/natrium-themes.jpg)
 
-![NetBuild Wallet Quick Send](https://natrium.io/assets/natrium-qt-1.gif) ![Natrium Add to Contacts](https://natrium.io/assets/natrium-qt-2.gif) ![Natrium Change Representative](https://natrium.io/assets/natrium-qt-4.gif)
+![NetBuild Wallet Quick Send](https://natrium.io/assets/natrium-qt-1.gif) ![NetBuild Wallet Add to Contacts](https://natrium.io/assets/natrium-qt-2.gif) ![NetBuild Wallet Change Representative](https://natrium.io/assets/natrium-qt-4.gif)
 
 ## Server
 
@@ -40,7 +40,7 @@ If you need any help, feel free to file an issue if you do not manage to find a 
 
 ## License
 
-Natrium is released under the MIT License
+NetBuild Wallet is released under the MIT License
 
 ### Update translations:
 
